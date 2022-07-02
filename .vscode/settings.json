@@ -1,0 +1,13 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": false,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#143326",
+    "titleBar.activeBackground": "#1C4735",
+    "titleBar.activeForeground": "#F7FCFA"
+  }
+}
